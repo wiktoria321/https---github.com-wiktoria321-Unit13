@@ -115,6 +115,5 @@ The reason I chose these colours is because green is associated with refreshment
 ---
 
 # **What I chose:**
-I chose the first design because I believe it has much better design and colours. I prefer the product page design on design 1 to the design 2.
-I asked a couple of people on their opinions wnd which one they prefer, most people picked design 1 too.
+I chose the first design because I believe it has much better layout and colours. Design 1 gives customers more choices and options where as design 2 is the opposite; not a lot of options. 
 
