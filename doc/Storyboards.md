@@ -58,20 +58,20 @@ I went for a simple look because I don't want everything to look crowded or mess
 
 ---
 ### **Images**
-- I chose these images from google for an example, they all come from Apple's company. I didn't have enough time to create my own but they would be changed and self made once the website would've been published. 
+- I chose these images from google for an example, they all come from Apple's company. Before the website get's published, it will have it's own.
 
 ---
 ### **Main page**
-- On the main page, the bottom images woudn't fit. I tried to add the scroll bar but unfortunately I wasn't able to as it wouldn't work. If I had more time, I would have tried to add the scroll bar. 
-- I tried to make the navigation bar work, added a basket and make it auto fit on other devices. Sadly I wasn't able to due to not having enough time. If I've had enough time, I would fix it and made it work.
+- On the main page, the bottom images woudn't fit. I tried to add the scroll bar but unfortunately I wasn't able to as it wouldn't work. Therefore I resized the images to fit.
+- The navigation bar works and will take you to it's location.
 
 ---
 ### **Product page**
-- I was planning to make the images take you to their product page, unfortunately I didn't have enough time to go back and do it.
+- Each image will take you to their product page.
 
 ---
 ### **The product pages**
-- This page is an example of how each product page would've looked like, I didn't have time to make each page. If I had time, I would have made all the product pages and connected them to each image on the product page.
+- This page is how each product page will look like.
 ---
 
 ## **Images**
