@@ -74,8 +74,12 @@ I went for a simple look because I don't want everything to look crowded or mess
 - This page is how each product page will look like.
 ---
 
+### **Contact**
+- I decided to change my layout page a bit and added a able instead. It includes numbers and an email to contact us for any queries. Below the table, it includes different rage of social media links.
+---
 ## **Images**
 Each product image is made by the Apple company which I used for examples only and not for the actual product. I did edit and changed some of the images backgrounds and product colours. 
+
 
 ---
 # _**Design 2**_
