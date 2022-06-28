@@ -127,7 +127,7 @@ Another feature that design 1 has that design 2 don't are product visuals and de
 
 On top of that, design 1 has much better page qualities and content. Those are important features as it helps to attract audience to the website, engages them and persuades the user to take action on the website. In addition, if the customers find the content valuable, they are more likely to share the website to others.  
 
-In the design 1 website, the 'About us' page is unfinished and some of the social media links aren't linked yet, but both are actively being worked on and soon to be finished and fully complete.
+In the design 1 website, the 'About us' page is unfinished and some of the social media links aren't linked yet, but both are actively being worked on and soon to be finished and fully complete. In the future, I will consider adding a image carousel to the front of my home page to improve my website, this way it can be more interactive and enchancing the users experience.
 
 ---
 My website meets the user requirements because the layout is simple and I have added the accessibility page with enlarged text and pictures with plain background so the text stands out for people with sight impairments. The website is also simply laid out, with simple colours which don't cause headaches or distractions and a simple font, which makes it easy to understand/read. The navigation bar is clearly labelled and repeated on all pages so it's easy to navigate through and will take you to different pages. Overall, the performance of the website is good because all the internal hyperlinks work and the loading speed of the pages is fast because I haven't included too much of them. 

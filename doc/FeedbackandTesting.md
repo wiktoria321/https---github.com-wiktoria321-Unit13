@@ -20,10 +20,10 @@ I then asked a person online to give their opinion.
 
 Test 1:
 
-I tested my website features and checked if everything works on other devices. The navigation bar works great, but the image links didn't want to work. To fix this problem, I will look into my Visual Studio Code and check what the problem is.
+I have tested my website on different browsers to check if my features, timings and overall checked if everything works. The navigation bar works great, but the image links didn't want to work. To fix this problem, I will look into my Visual Studio Code and check what the problem is.
 
 Problem: It turns out the link that the images were linked to were connected to my account/profile file. I needed to delete the first part of the links just to remove the connection. Now, it works fine.
 
 Test 2:
 
-The navigation bar works, image links work and everything else too. Which means the website is fully functional and fulfilled it's purpose.
+I have tested again and the navigation bar works, image links work and everything else too. Which means the website is fully functional and fulfilled it's purpose.
