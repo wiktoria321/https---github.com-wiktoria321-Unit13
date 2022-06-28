@@ -117,7 +117,17 @@ The reason I chose these colours is because green is associated with refreshment
 [Heading text](https://fonts.google.com/specimen/Acme#standard-styles) Regular 400.
 
 ---
-
 # **What I chose:**
-I chose the first design because I believe it has much better layout and colours. Design 1 gives customers more choices and options where as design 2 is the opposite; not a lot of options. 
 
+The intended purpose of the website is to promote and sell mobile phones, the website targets anyone who is interested in buying mobile phones. Therefore I chose the first design because I believe it has much better layout and colours. Design 1 gives customers more choices and options where as design 2 is the opposite. 
+
+Design 1 has a handful of features that design 2 does not have, for example buttons - buttons are important and very useful in websites, they make navigation easier and allows users to interact with the site. They can also improve users experience and are easy to use. 
+
+Another feature that design 1 has that design 2 don't are product visuals and descriptions. This is very important as it tells the customers a brief of the product and helps customers make informed purchasing decisions. It also makes the website look professional and organised.
+
+On top of that, design 1 has much better page qualities and content. Those are important features as it helps to attract audience to the website, engages them and persuades the user to take action on the website. In addition, if the customers find the content valuable, they are more likely to share the website to others.  
+
+In the design 1 website, the 'About us' page is unfinished and some of the social media links aren't linked yet, but both are actively being worked on and soon to be finished and fully complete.
+
+---
+My website meets the user requirements because the layout is simple and I have added the accessibility page with enlarged text and pictures with plain background so the text stands out for people with sight impairments. The website is also simply laid out, with simple colours which don't cause headaches or distractions and a simple font, which makes it easy to understand/read. The navigation bar is clearly labelled and repeated on all pages so it's easy to navigate through and will take you to different pages. Overall, the performance of the website is good because all the internal hyperlinks work and the loading speed of the pages is fast because I haven't included too much of them. 
