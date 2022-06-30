@@ -44,7 +44,7 @@ _Needs to look good:_
 _Professional:_
 
 - Formal,
-- Use larger imgages,
+- Use larger images,
 - Simple, not messy looking,
 - Simple and neutral colour palette,
 - Use typography guidelines; Fonts that are designed for it's purpose.
@@ -53,9 +53,6 @@ _Cheap:_
 
 - An reasonable price; the cheaper the product the more customers want it,
 
-_General business:_
-
--
 ## **Developers**
 
 _Well documented:_

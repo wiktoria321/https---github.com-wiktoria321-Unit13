@@ -2,13 +2,13 @@
 ---
 ## **Storyboard 1**
 ---
-[Design 1](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:eeee9e5b-9554-3877-9474-a95286a20f21)
+[Design 1](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:4b60d7fa-d481-4eb2-8887-12416f9138cf)
 
 ---
 ---
 ## **Storyboard 2**
 ---
-[Design 2](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:623d0417-5b03-3357-a864-2ef10454b5e9)
+[Design 2](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:79ba3bac-665c-4883-be14-8d0913013ae3)
 
 ---
 # _**Design 1**_
@@ -31,7 +31,7 @@ Wanted a clean look, neutral toned and modern looking.
 [#9DB2C9](https://www.google.com/search?q=%239db2c9&rlz=1C1GCEA_enGB984GB984&ei=PVLlYdqaDYfZgAaD7qLoBQ&ved=0ahUKEwiarfrQ1rj1AhWHLMAKHQO3CF0Q4dUDCA4&uact=5&oq=%239db2c9&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQAFgAYNywImgEcAB4AIABAIgBAJIBAJgBAMABAQ&sclient=gws-wiz&safe=active&ssui=on), [#576373](https://www.google.com/search?q=%23576373&rlz=1C1GCEA_enGB984GB984&ei=P1TlYaKTB5CQ8gLMlI-QDw&ved=0ahUKEwjiroDG2Lj1AhUQiFwKHUzKA_IQ4dUDCA4&uact=5&oq=%23576373&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQAFgAYI0EaAFwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz&safe=active&ssui=on), [#222A35](https://www.google.com/search?q=%23222A35&rlz=1C1GCEA_enGB984GB984&oq=%23222a35&aqs=chrome.0.69i59j0i30j0i30i395.4159j1j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on), [#B6BABF](https://www.google.com/search?q=%23b6babf&rlz=1C1GCEA_enGB984GB984&oq=%23b6babf&aqs=chrome..69i57.6529j1j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on), [#7795B5](https://www.google.com/search?q=%237795b5&rlz=1C1GCEA_enGB984GB984&oq=%237795b5&aqs=chrome..69i57.6660j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on), [#2F4057](https://www.google.com/search?q=%232f4057&rlz=1C1GCEA_enGB984GB984&oq=%232f4057&aqs=chrome..69i57.6631j1j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on), [#E6E8EB](https://www.google.com/search?q=%23e6e8eb&rlz=1C1GCEA_enGB984GB984&oq=%23e6e8eb&aqs=chrome.0.69i59j0i30i395j69i60.11255j1j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on), [#BDCCDE](https://www.google.com/search?q=%23bdccde&rlz=1C1GCEA_enGB984GB984&oq=%23bdccde&aqs=chrome..69i57.4761j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on), [#162336](https://www.google.com/search?q=%23162336&rlz=1C1GCEA_enGB984GB984&oq=%23162336&aqs=chrome..69i57.6241j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
  
 ## **Why?** 
-The reason I chose these colours is because they are easy on the eyes and creates a neutral, modern look. It also makes the page look fresh, clean and many company's that I've look at included blue.  
+I chose these colours is because they are easy on the eyes and creates a neutral, modern look. It also makes the page look fresh, clean and many company's that I've look at included blue.  
 
 ## **How you plan to use it:**
 
@@ -127,7 +127,7 @@ Another feature that design 1 has that design 2 does not, are product visuals an
 
 On top of that, design 1 has much better page qualities and content. Those are important features as it helps to attract audience to the website, engages them and persuades the user to take action on the website. In addition, if the customers find the content valuable, they are more likely to share the website to others.  
 
-In the design 1 website, the 'About us' page is unfinished and some of the social media links are not linked yet, but both are actively being worked on and soon to be finished and fully complete. In the future, I will consider adding a image carousel to the front of my home page to improve my website, this way it can be more interactive and enchancing the users experience.
+In the design 1 website, the 'About us' page is unfinished and some of the social media links are not linked yet, but both are actively being worked on and soon to be finished and fully complete. In the future, I will consider adding a image carousel to the front of my home page to improve my website, this way it can be more interactive and enchanting the users experience.
 
 ---
 My website meets the user requirements because the layout is simple and I have added the accessibility page with enlarged text and pictures with plain background so the text stands out for people with sight impairments. The website is also simply laid out, with simple colours which don't cause headaches or distractions and a simple font, which makes it easy to understand/read. The navigation bar is clearly labelled and repeated on all pages so it's easy to navigate through and will take you to different pages. Overall, the performance of the website is good because all the internal hyperlinks work and the loading speed of the pages is fast because I have not included too much of content. 
