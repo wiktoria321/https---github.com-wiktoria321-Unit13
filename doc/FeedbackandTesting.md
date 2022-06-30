@@ -16,14 +16,4 @@ I then asked a person online to give their opinion.
 
 ---
 
-# **Testing:**
 
-Test 1:
-
-I have tested my website on different browsers to check if my features, timings and overall checked if everything works. The navigation bar works great, but the image links didn't want to work. To fix this problem, I will look into my Visual Studio Code and check what the problem is.
-
-Problem: It turns out the link that the images were linked to were connected to my account/profile file. I needed to delete the first part of the links just to remove the connection. Now, it works fine.
-
-Test 2:
-
-I have tested again and the navigation bar works, image links work and everything else too. Which means the website is fully functional and fulfilled it's purpose.
